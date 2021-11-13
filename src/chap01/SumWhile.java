@@ -19,5 +19,6 @@ public class SumWhile {
         }
         System.out.println("1부터 " +n+ "까지의 합은?");
         System.out.println(sum+ "이다.");
+
     }
 }
