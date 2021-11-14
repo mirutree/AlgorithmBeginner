@@ -16,5 +16,6 @@ public class SumFor {
             sum += i; // sum에 i를 더하기
 
         System.out.println("1부터 " +n+ "까지의 합은 " +sum );
+
     }
 }
